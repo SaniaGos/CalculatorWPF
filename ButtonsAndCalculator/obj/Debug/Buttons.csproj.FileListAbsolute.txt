@@ -12,3 +12,4 @@ C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Deb
 C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
 C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.exe
 C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.pdb
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\Buttons.csprojAssemblyReference.cache

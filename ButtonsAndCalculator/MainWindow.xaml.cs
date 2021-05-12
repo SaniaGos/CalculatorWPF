@@ -86,11 +86,15 @@ namespace ButtonsAndCalculator
         }
         private void GrayButton_Click(object sender, RoutedEventArgs e)
         {
-            Background = Brushes.Gray;
+            GradientStopCollection stops = new GradientStopCollection();
+            stops.Add(new GradientStop(Colors.Red, 0));
+            stops.Add(new GradientStop(Colors.Green, 0.4));
+            stops.Add(new GradientStop(Colors.Gray, 0.8));
+            Background = new RadialGradientBrush(stops);
         }
         private void WhiteButton_Click(object sender, RoutedEventArgs e)
         {
-            Background = Brushes.White;
+            Background = WhiteButton.Background;
         }
     }
 }

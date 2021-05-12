@@ -29,7 +29,18 @@
             <Button x:Name="BlackButton" Content="Black" Foreground="Black" FontSize="16" FontWeight="Bold" Margin="3" Click="BlackButton_Click"/>
             <Button x:Name="SilverButton" Content="Silver" Foreground="Silver" FontSize="16" FontWeight="Bold" Margin="3" Click="SilverButton_Click"/>
             <Button x:Name="GrayButton" Content="Gray" Foreground="Gray" FontSize="16" FontWeight="Bold" Margin="3" Click="GrayButton_Click"/>
-            <Button x:Name="WhiteButton" Content="White" Foreground="White" FontSize="16" FontWeight="Bold" Margin="3" Click="WhiteButton_Click"/>
+            <Button x:Name="WhiteButton" Content="White" Foreground="White" FontSize="16" FontWeight="Bold" Margin="3" Click="WhiteButton_Click">
+                <Button.Background>
+                    <RadialGradientBrush>
+                        <GradientStop Color="White" Offset="0"/>
+                        <GradientStop Color="Blue" Offset="0.25"/>
+                        <GradientStop Color="Red" Offset="0.55"/>
+                        <GradientStop Color="Silver" Offset="0.75"/>
+                        <GradientStop Color="GreenYellow" Offset="0.9"/>
+                    </RadialGradientBrush>
+                </Button.Background>
+            </Button>
+
         </WrapPanel>
 
     </Grid>
