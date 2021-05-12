@@ -1,0 +1,15 @@
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\bin\Debug\ButtonsAndCalculator.exe.config
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\bin\Debug\ButtonsAndCalculator.exe
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\bin\Debug\ButtonsAndCalculator.pdb
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\App.g.cs
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator_MarkupCompile.cache
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator_MarkupCompile.lref
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\MainWindow.baml
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.g.resources
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.Properties.Resources.resources
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.csproj.GenerateResource.cache
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.exe
+C:\Users\SaniaGos\source\repos\ButtonsAndCalculator\ButtonsAndCalculator\obj\Debug\ButtonsAndCalculator.pdb

@@ -1,0 +1,36 @@
+﻿<Window x:Class="ButtonsAndCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ButtonsAndCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <WrapPanel Grid.Column="0" Orientation="Horizontal">
+            <Button x:Name="NavyButton" Content="Navy" Foreground="Navy" FontSize="16" FontWeight="Bold" Margin="3" Click="NavyButton_Click"/>
+            <Button x:Name="BlueButton" Content="Blue" Foreground="Blue" FontSize="16" FontWeight="Bold" Margin="3" Click="BlueButton_Click"/>
+            <Button x:Name="AquaButton" Content="Aqua" Foreground="Aqua" FontSize="16" FontWeight="Bold" Margin="3" Click="AquaButton_Click"/>
+            <Button x:Name="TealButton" Content="Teal" Foreground="Teal" FontSize="16" FontWeight="Bold" Margin="3" Click="TealButton_Click"/>
+            <Button x:Name="OliveButton" Content="Olive" Foreground="Olive" FontSize="16" FontWeight="Bold" Margin="3" Click="OliveButton_Click"/>
+            <Button x:Name="GreenButton" Content="Green" Foreground="Green" FontSize="16" FontWeight="Bold" Margin="3" Click="GreenButton_Click"/>
+            <Button x:Name="LimeButton" Content="Lime" Foreground="Lime" FontSize="16" FontWeight="Bold" Margin="3" Click="LimeButton_Click"/>
+            <Button x:Name="YellowButton" Content="Yellow" Foreground="Yellow" FontSize="16" FontWeight="Bold" Margin="3" Click="YellowButton_Click"/>
+            <Button x:Name="OrangeButton" Content="Orange" Foreground="Orange" FontSize="16" FontWeight="Bold" Margin="3" Click="OrangeButton_Click"/>
+            <Button x:Name="RedButton" Content="Red" Foreground="Red" FontSize="16" FontWeight="Bold" Margin="3" Click="RedButton_Click"/>
+            <Button x:Name="MaroonButton" Content="Maroon" Foreground="Maroon" FontSize="16" FontWeight="Bold" Margin="3" Click="MaroonButton_Click"/>
+            <Button x:Name="FuchsiaButton" Content="Fuchsia" Foreground="Fuchsia" FontSize="16" FontWeight="Bold" Margin="3" Click="FuchsiaButton_Click"/>
+            <Button x:Name="PurpleButton" Content="Purple" Foreground="Purple" FontSize="16" FontWeight="Bold" Margin="3" Click="PurpleButton_Click"/>
+            <Button x:Name="BlackButton" Content="Black" Foreground="Black" FontSize="16" FontWeight="Bold" Margin="3" Click="BlackButton_Click"/>
+            <Button x:Name="SilverButton" Content="Silver" Foreground="Silver" FontSize="16" FontWeight="Bold" Margin="3" Click="SilverButton_Click"/>
+            <Button x:Name="GrayButton" Content="Gray" Foreground="Gray" FontSize="16" FontWeight="Bold" Margin="3" Click="GrayButton_Click"/>
+            <Button x:Name="WhiteButton" Content="White" Foreground="White" FontSize="16" FontWeight="Bold" Margin="3" Click="WhiteButton_Click"/>
+        </WrapPanel>
+
+    </Grid>
+</Window>
